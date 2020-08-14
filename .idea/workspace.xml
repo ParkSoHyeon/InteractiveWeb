@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379a8022-4804-498e-b39e-67547b3709b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter-02/subject-03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-02/subject-04.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/css/styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/images/desk.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/images/logo.png" afterDir="false" />
@@ -94,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597316819695</updated>
-      <workItem from="1597316824466" duration="11076000" />
+      <workItem from="1597316824466" duration="12534000" />
     </task>
     <task id="LOCAL-00001" summary="인터랙티브 웹 1강 - all commit">
       <created>1597323478395</created>
@@ -131,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597386939824</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="인터랙티브 웹 2강 - 실습과제 3 commit">
+      <created>1597388180831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597388180831</updated>
+    </task>
+    <task id="LOCAL-00007" summary="인터랙티브 웹 2강 - 실습과제 4 commit">
+      <created>1597388191981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597388191981</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,17 +153,19 @@
     <MESSAGE value="인터랙티브 웹 1강 - all commit" />
     <MESSAGE value="인터랙티브 웹 2강 - 실습과제 1 commit" />
     <MESSAGE value="인터랙티브 웹 2강 - 실습과제 2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="인터랙티브 웹 2강 - 실습과제 2 commit" />
+    <MESSAGE value="인터랙티브 웹 2강 - 실습과제 3 commit" />
+    <MESSAGE value="인터랙티브 웹 2강 - 실습과제 4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="인터랙티브 웹 2강 - 실습과제 4 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="0" key="#Project_Structure" timestamp="1597316887088">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="128" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1597316887088" />
-    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2" timestamp="1597386939634">
+    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2" timestamp="1597388191565">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597386939634" />
+    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597388191565" />
     <state width="1238" height="218" key="GridCell.Tab.0.bottom" timestamp="1597387820790">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -168,9 +182,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="218" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597387820789" />
-    <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1597386941531">
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1597388195289">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597386941531" />
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597388195289" />
   </component>
 </project>
