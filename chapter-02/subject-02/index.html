@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>로그인</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/earlyaccess/notosanskr.css" rel="stylesheet">
+</head>
+<body>
+  <div class="login-form">
+    <form>
+      <input type="text" name="email" id="email-input" class="text-field" placeholder="아이디"><br>
+      <input type="password" name="password" id="password-input" class="text-field" placeholder="비밀번호"><br>
+      <input type="submit" value="로그인" id="submit-btn">
+    </form>
+
+    <div class="links">
+      <a href="#">비밀번호를 잊어버리셨나요?</a>
+    </div>
+  </div>
+
+  <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <script>
+    // 여기에 코드를 작성하세요.
+    $('input').on('keyup', function () {
+      let email = $('#email-input')[0];
+      let password = $('#password-input')[0];
+      let submitBtn = $('#submit-btn');
+
+      if (email.value !== '' && password.value !== '') {
+        submitBtn.css('background-color', '#1BBC9B');
+      }
+      else {
+        submitBtn.css('background-color', '#9B9B9B');
+      }
+    })
+  </script>
+</body>
+</html>
