@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="379a8022-4804-498e-b39e-67547b3709b5" name="Default Changelist" comment="인터랙티브 웹 2강 - 실습과제 1 commit">
-      <change afterPath="$PROJECT_DIR$/chapter-02/subject-02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-02/subject-02/styles.css" afterDir="false" />
+    <list default="true" id="379a8022-4804-498e-b39e-67547b3709b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter-02/subject-03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-02/subject-04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/images/desk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-02/subject-05/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter-02/subject-02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter-02/subject-05" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,15 +53,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter-02/subject-05" />
       <recent name="$PROJECT_DIR$/chapter-02/subject-02" />
       <recent name="$PROJECT_DIR$/chapter-02/subject-01" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.subject-final.js">
-    <configuration name="subject-08.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter-01/subject-08.js" working-dir="$PROJECT_DIR$/chapter-01">
+  <component name="RunManager" selected="Node.js.subject-04.js">
+    <configuration name="subject-03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter-02/subject-03.js" working-dir="$PROJECT_DIR$/chapter-02">
       <method v="2" />
     </configuration>
-    <configuration name="subject-09.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter-01/subject-09.js" working-dir="$PROJECT_DIR$/chapter-01">
+    <configuration name="subject-04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter-02/subject-04.js" working-dir="$PROJECT_DIR$/chapter-02">
       <method v="2" />
     </configuration>
     <configuration name="subject-10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter-01/subject-10.js" working-dir="$PROJECT_DIR$/chapter-01">
@@ -71,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.subject-04.js" />
+        <item itemvalue="Node.js.subject-03.js" />
         <item itemvalue="Node.js.subject-final.js" />
         <item itemvalue="Node.js.subject-11.js" />
         <item itemvalue="Node.js.subject-10.js" />
-        <item itemvalue="Node.js.subject-09.js" />
-        <item itemvalue="Node.js.subject-08.js" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597316819695</updated>
-      <workItem from="1597316824466" duration="9871000" />
+      <workItem from="1597316824466" duration="11076000" />
     </task>
     <task id="LOCAL-00001" summary="인터랙티브 웹 1강 - all commit">
       <created>1597323478395</created>
@@ -119,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597325628834</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="인터랙티브 웹 2강 - 실습과제 2 commit">
+      <created>1597386939824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597386939824</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,36 +140,37 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="인터랙티브 웹 1강 - all commit" />
     <MESSAGE value="인터랙티브 웹 2강 - 실습과제 1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="인터랙티브 웹 2강 - 실습과제 1 commit" />
+    <MESSAGE value="인터랙티브 웹 2강 - 실습과제 2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="인터랙티브 웹 2강 - 실습과제 2 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="0" key="#Project_Structure" timestamp="1597316887088">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="128" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1597316887088" />
-    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2" timestamp="1597386918328">
+    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2" timestamp="1597386939634">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597386918328" />
-    <state width="1238" height="219" key="GridCell.Tab.0.bottom" timestamp="1597325601080">
+    <state x="57" y="23" width="1171" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597386939634" />
+    <state width="1238" height="218" key="GridCell.Tab.0.bottom" timestamp="1597387820790">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="219" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597325601080" />
-    <state width="1238" height="219" key="GridCell.Tab.0.center" timestamp="1597325601079">
+    <state width="1238" height="218" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597387820790" />
+    <state width="1238" height="218" key="GridCell.Tab.0.center" timestamp="1597387820788">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="219" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597325601079" />
-    <state width="1238" height="219" key="GridCell.Tab.0.left" timestamp="1597325601078">
+    <state width="1238" height="218" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597387820788" />
+    <state width="1238" height="218" key="GridCell.Tab.0.left" timestamp="1597387820787">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="219" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597325601078" />
-    <state width="1238" height="219" key="GridCell.Tab.0.right" timestamp="1597325601079">
+    <state width="1238" height="218" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597387820787" />
+    <state width="1238" height="218" key="GridCell.Tab.0.right" timestamp="1597387820789">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="219" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597325601079" />
-    <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1597325630536">
+    <state width="1238" height="218" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597387820789" />
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1597386941531">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597325630536" />
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597386941531" />
   </component>
 </project>
